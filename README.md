@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+PHP Backend developer by day, Python data scraper by night.
+
+Hello, i'm a professional PHP backend developer from The Netherlands currently using Drupal for work. In my spare time i like to create Python programs to automate menial tasks or to scrape data from services that don't make your data easily downloadable.
+
 <!--
 **David-Eilers/David-Eilers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
